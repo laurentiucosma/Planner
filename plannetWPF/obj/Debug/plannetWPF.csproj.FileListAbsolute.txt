@@ -1,0 +1,12 @@
+c:\users\l\documents\visual studio 2013\Projects\plannetWPF\plannetWPF\bin\Debug\plannetWPF.exe
+c:\users\l\documents\visual studio 2013\Projects\plannetWPF\plannetWPF\bin\Debug\plannetWPF.pdb
+c:\users\l\documents\visual studio 2013\Projects\plannetWPF\plannetWPF\obj\Debug\plannetWPF.csprojResolveAssemblyReference.cache
+c:\users\l\documents\visual studio 2013\Projects\plannetWPF\plannetWPF\obj\Debug\MainWindow.baml
+c:\users\l\documents\visual studio 2013\Projects\plannetWPF\plannetWPF\obj\Debug\MainWindow.g.cs
+c:\users\l\documents\visual studio 2013\Projects\plannetWPF\plannetWPF\obj\Debug\App.g.cs
+c:\users\l\documents\visual studio 2013\Projects\plannetWPF\plannetWPF\obj\Debug\plannetWPF_MarkupCompile.cache
+c:\users\l\documents\visual studio 2013\Projects\plannetWPF\plannetWPF\obj\Debug\plannetWPF.g.resources
+c:\users\l\documents\visual studio 2013\Projects\plannetWPF\plannetWPF\obj\Debug\plannetWPF.Properties.Resources.resources
+c:\users\l\documents\visual studio 2013\Projects\plannetWPF\plannetWPF\obj\Debug\plannetWPF.csproj.GenerateResource.Cache
+c:\users\l\documents\visual studio 2013\Projects\plannetWPF\plannetWPF\obj\Debug\plannetWPF.exe
+c:\users\l\documents\visual studio 2013\Projects\plannetWPF\plannetWPF\obj\Debug\plannetWPF.pdb
