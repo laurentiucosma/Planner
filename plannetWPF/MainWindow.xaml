@@ -1,7 +1,7 @@
 ﻿<Window x:Class="plannetWPF.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="MainWindow" Height="350" Width="525" AllowsTransparency="True" Background="#AA000000" WindowStyle="None" Topmost="True" MouseDown="Window_MouseDown" MouseUp="Window_MouseUp" MouseMove="Window_MouseMove">
+        Title="MainWindow" Height="350" Width="525" AllowsTransparency="True" Background="#AA000000" WindowStyle="None" Topmost="True" MouseDown="Window_MouseDown" MouseUp="Window_MouseUp" MouseMove="Window_MouseMove" Loaded="Window_Loaded">
     <Grid  >
         <Grid.Background>
             <ImageBrush TileMode="Tile"/>
@@ -18,10 +18,10 @@
         <Image HorizontalAlignment="Left" Height="146" Margin="-51.681,179,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="207.734" Source="C:\Users\L\Desktop\projects\planner\weather_cloudy.png" Stretch="Fill">
 
         </Image>
-        <Grid Name="DateCollection" HorizontalAlignment="Left" Height="164" Margin="17.632,23.053,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="95.053">
-            <Label Name="day" Content=" 31" HorizontalAlignment="Left" VerticalAlignment="Top" Height="104.947" Width="89.316" Background="#00F70000" FontSize="60" Foreground="White" FontFamily="Candara"/>
-            <Label Name="month" Content="Martie" HorizontalAlignment="Left" Margin="22,104.947,0,0" VerticalAlignment="Top" Foreground="#FFF9F7F7"/>
-            <Label Name="year" Content="2013" HorizontalAlignment="Left" Margin="15,127,0,0" VerticalAlignment="Top" Foreground="#FFF9F7F7" FontSize="22" FontFamily="Candara"/>
+        <Grid Name="dateCollection" HorizontalAlignment="Left" Height="177.053" Margin="10,10,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="102.685">
+            <Label Name="day"  Content=" 31" HorizontalAlignment="Stretch" VerticalAlignment="Top" Height="104.947" Width="Auto" Background="#00F70000" FontSize="60" Foreground="White" FontFamily="Candara"/>
+            <Label Name="month" Content="Martie" Margin="0,0,34.058,51.783" VerticalAlignment="Bottom" Foreground="#FFF9F7F7" HorizontalAlignment="Right" Width="Auto" />
+            <Label Name="year" Content="2013" Margin="24,127,0,0" VerticalAlignment="Top" Foreground="#FFF9F7F7" FontSize="22" FontFamily="Candara" HorizontalAlignment="Left" Width="50.627"/>
         </Grid>
 
     </Grid>
